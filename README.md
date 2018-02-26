@@ -13,3 +13,4 @@ blablabla
 asdasd
 Test
 TEST COMMIT HTTPS
+TEST COMMIT SSH
