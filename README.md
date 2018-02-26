@@ -14,3 +14,5 @@ asdasd
 Test
 TEST COMMIT HTTPS
 TEST COMMIT SSH
+var hello = "Hello World"
+console.log("Hello World");
