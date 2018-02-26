@@ -19,3 +19,4 @@ console.log("Hello World");
 var goodbye ="Good ByeWorld"
 console.log("Good Bye World");
 var taskVariable = "my new task";
+var shortTaskVariable = "my short task";
